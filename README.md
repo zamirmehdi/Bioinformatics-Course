@@ -16,9 +16,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Projects Overview</a>
+      <a href="#projects-overview">Projects Overview</a>
       <ul>
-        <li><a href="#1. Basic Biology">1. Basic Biology</a></li>
+        <li><a href="#1-basic-biology-theoretical-">1. Basic Biology</a></li>
         <li><a href="#2. Pairwise Sequence Alignment">2. Pairwise Sequence Alignment</a></li>
         <li><a href="#3. Multiple Sequence Alignment - DB Search">3. Multiple Sequence Alignment - DB Search</a></li>
         <li><a href="#4. Profile - Hidden Markov Model">4. Profile - Hidden Markov Model </a></li>
@@ -26,8 +26,8 @@
         <li><a href="6. Virus Classification (Final Project)">6. Virus Classification (Final Project)</a></li>
       </ul>
     </li>
-    <li> <a href="Course Information">Course Information</a>
-    <li> <a href="Contact">Contact</a>
+    <li> <a href="#course-information">Course Information</a>
+    <li> <a href="#contact">Contact</a>
     <!--
       <a href="#getting-started">Getting Started</a>
       <ul>
