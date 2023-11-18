@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## Projects Overview
-All projects are accompanied by their respective codes, necessary dataset (if required), and comprehensive documentation, which includes instructions and reports (in Persian).
+All projects are accompanied by their respective codes, necessary datasets (if required), and comprehensive documentation, which includes instructions and reports (in Persian).
 
 <h3> 1. Basic Biology <span style="font-size: small; font-weight: normal;">(Theoretical)</span> </h3>
 
@@ -70,7 +70,7 @@ Developed a model that extracts profiles from multiple sequence alignments and f
 Concepts and theoretical explanations in the field of phylogenetic trees.
 
 <h3> 6. Virus Classification (Final Project) <span style="font-size: small; font-weight: normal;">(Programming)</span> </h3>
-Analysis and classification of DNA Sequence Using Neural Networks. This project is the implementation of this [research article](https://pubmed.ncbi.nlm.nih.gov/34306171/). 
+Analysis and classification of DNA Sequence Using Neural Networks. This project is the implementation of this [research article](https://pubmed.ncbi.nlm.nih.gov/34306171).
 Developed a virus classification model using nucleotide sequences, employing the k-mer algorithm for preprocessing and integrating MLP Neural Networks in the machine learning model.
 
 
