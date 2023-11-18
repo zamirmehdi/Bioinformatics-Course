@@ -4,7 +4,7 @@
   <h3 align="center">Bioinformatics</h3>
   
   <p align="left">
-    Welcome to the Bioinformatics Course repository! This repository contains 6 different projects completed during my undergraduate bioinformatics course. The projects cover a range of topics in bioinformatics, including programming projects and theoretical concepts(4 programming/theoretical and 2 pure theoretical projects).
+    Welcome to the Bioinformatics Course repository! This repository contains 6 different projects completed during my undergraduate bioinformatics course. The projects cover a range of topics in bioinformatics, including programming assignments and theoretical concepts(4 programming/theoretical and 2 pure theoretical projects).
     <br/>
   </p>
   
@@ -15,18 +15,31 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#projects-overview">Projects Overview</a>
+    <li>
+      <a href="#projects-overview">Projects Overview</a>
       <ul>
-        <li><a href="#1-basic-biology-theoretical">1. Basic Biology</a></li>
-        <li><a href="#2-pairwise-sequence-alignment-programmingtheoretical">2. Pairwise Sequence Alignment</a></li>
-        <li><a href="#3-multiple-sequence-alignment---db-search-programmingtheoretical">3. Multiple Sequence Alignment - DB Search</a></li>
-        <li><a href="#4-profile---hidden-markov-model-programmingtheoretical">4. Profile - Hidden Markov Model</a></li>
-        <li><a href="#5-phylogenetic-trees-theoretical">5. Phylogenetic Trees</a></li>
-        <li><a href="#6-virus-classification-final-project-programming">6. Virus Classification (Final Project)</a></li>
+        <li><a href="#-1-basic-biology-theoretical-">1. Basic Biology</a></li>
+        <li><a href="#-2-pairwise-sequence-alignment-programmingtheoretical-">2. Pairwise Sequence Alignment</a></li>
+        <li><a href="#-3-multiple-sequence-alignment---db-search-programmingtheoretical-">3. Multiple Sequence Alignment - DB Search</a></li>
+        <li><a href="#-4-profile---hidden-markov-model-programmingtheoretical-">4. Profile - Hidden Markov Model </a></li>
+        <li><a href="#-5-phylogenetic-trees-theoretical-">5. Phylogenetic Trees</a></li>
+        <li><a href="-6-virus-classification-final-project-programming-">6. Virus Classification (Final Project)</a></li>
       </ul>
     </li>
-    <li><a href="#course-information">Course Information</a></li>
+    <li> <a href="#course-information">Course Information</a>
+    <li> <a href="#contact">Contact</a>
+    <!--
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+<!--     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+<!--     <li><a href="#acknowledgments">Acknowledgments</a></li> -->
   </ol>
 </details>
 
