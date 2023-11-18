@@ -55,21 +55,26 @@ All projects are accompanied by their respective codes, necessary datasets (if r
 Definitions and theoretical explanations of basic biological concepts in bioinformatics.
 
 <h3> 2. Pairwise Sequence Alignment <span style="font-size: small; font-weight: normal;">(Programming/Theoretical)</span> </h3>
+
 Developed semi-global protein alignment utilizing dynamic programming techniques.
 
 
 <h3> 3. Multiple Sequence Alignment - DB Search <span style="font-size: small; font-weight: normal;">(Programming/Theoretical)</span> </h3>
+
 Implemented a model for aligning multiple protein sequences using the Star
 Alignment algorithm
 
 <h3> 4. Profile - Hidden Markov Model <span style="font-size: small; font-weight: normal;">(Programming/Theoretical))</span> </h3>
+
 Developed a model that extracts profiles from multiple sequence alignments and finds the optimal subsequence with the highest score based on the profile on a given long sequence.
 
 
 <h3> 5. Phylogenetic Trees <span style="font-size: small; font-weight: normal;">(Theoretical)</span> </h3>
+
 Concepts and theoretical explanations in the field of phylogenetic trees.
 
 <h3> 6. Virus Classification (Final Project) <span style="font-size: small; font-weight: normal;">(Programming)</span> </h3>
+
 Analysis and classification of DNA Sequence Using Neural Networks. This project is the implementation of this [research article](https://pubmed.ncbi.nlm.nih.gov/34306171).
 Developed a virus classification model using nucleotide sequences, employing the k-mer algorithm for preprocessing and integrating MLP Neural Networks in the machine learning model.
 
