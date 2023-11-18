@@ -18,12 +18,12 @@
     <li>
       <a href="#projects-overview">Projects Overview</a>
       <ul>
-        <li><a href="#1-basic-biology-theoretical-">1. Basic Biology</a></li>
-        <li><a href="#2. Pairwise Sequence Alignment">2. Pairwise Sequence Alignment</a></li>
-        <li><a href="#3. Multiple Sequence Alignment - DB Search">3. Multiple Sequence Alignment - DB Search</a></li>
-        <li><a href="#4. Profile - Hidden Markov Model">4. Profile - Hidden Markov Model </a></li>
-        <li><a href="#5. Phylogenetic Trees">5. Phylogenetic Trees</a></li>
-        <li><a href="6. Virus Classification (Final Project)">6. Virus Classification (Final Project)</a></li>
+        <li><a href="#-1-basic-biology-theoretical-">1. Basic Biology</a></li>
+        <li><a href="#-2-pairwise-sequence-alignment-programmingtheoretical-">2. Pairwise Sequence Alignment</a></li>
+        <li><a href="#-3-multiple-sequence-alignment---db-search-programmingtheoretical-">3. Multiple Sequence Alignment - DB Search</a></li>
+        <li><a href="#-4-profile---hidden-markov-model-programmingtheoretical-">4. Profile - Hidden Markov Model </a></li>
+        <li><a href="#-5-phylogenetic-trees-theoretical-">5. Phylogenetic Trees</a></li>
+        <li><a href="-6-virus-classification-final-project-programming-">6. Virus Classification (Final Project)</a></li>
       </ul>
     </li>
     <li> <a href="#course-information">Course Information</a>
@@ -70,7 +70,7 @@ Developed a model that extracts profiles from multiple sequence alignments and f
 Concepts and theoretical explanations in the field of phylogenetic trees.
 
 <h3> 6. Virus Classification (Final Project) <span style="font-size: small; font-weight: normal;">(Programming)</span> </h3>
-Analysis and classification of DNA Sequence Using Neural Networks. This project is the implementation of this [research article](https://pubmed.ncbi.nlm.nih.gov/34306171).
+Analysis and classification of DNA Sequence Using Neural Networks. This project is the implementation of this [GitHub](https://github.com).
 Developed a virus classification model using nucleotide sequences, employing the k-mer algorithm for preprocessing and integrating MLP Neural Networks in the machine learning model.
 
 
