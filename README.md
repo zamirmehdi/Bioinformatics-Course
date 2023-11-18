@@ -15,31 +15,18 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#projects-overview">Projects Overview</a>
+    <li><a href="#projects-overview">Projects Overview</a>
       <ul>
-        <li><a href="#-1-basic-biology-theoretical-">1. Basic Biology</a></li>
-        <li><a href="#-2-pairwise-sequence-alignment-programmingtheoretical-">2. Pairwise Sequence Alignment</a></li>
-        <li><a href="#-3-multiple-sequence-alignment---db-search-programmingtheoretical-">3. Multiple Sequence Alignment - DB Search</a></li>
-        <li><a href="#-4-profile---hidden-markov-model-programmingtheoretical-">4. Profile - Hidden Markov Model </a></li>
-        <li><a href="#-5-phylogenetic-trees-theoretical-">5. Phylogenetic Trees</a></li>
-        <li><a href="-6-virus-classification-final-project-programming-">6. Virus Classification (Final Project)</a></li>
+        <li><a href="#1-basic-biology-theoretical">1. Basic Biology</a></li>
+        <li><a href="#2-pairwise-sequence-alignment-programmingtheoretical">2. Pairwise Sequence Alignment</a></li>
+        <li><a href="#3-multiple-sequence-alignment---db-search-programmingtheoretical">3. Multiple Sequence Alignment - DB Search</a></li>
+        <li><a href="#4-profile---hidden-markov-model-programmingtheoretical">4. Profile - Hidden Markov Model</a></li>
+        <li><a href="#5-phylogenetic-trees-theoretical">5. Phylogenetic Trees</a></li>
+        <li><a href="#6-virus-classification-final-project-programming">6. Virus Classification (Final Project)</a></li>
       </ul>
     </li>
-    <li> <a href="#course-information">Course Information</a>
-    <li> <a href="#contact">Contact</a>
-    <!--
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-<!--     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#course-information">Course Information</a></li>
     <li><a href="#contact">Contact</a></li>
-<!--     <li><a href="#acknowledgments">Acknowledgments</a></li> -->
   </ol>
 </details>
 
@@ -70,7 +57,7 @@ Developed a model that extracts profiles from multiple sequence alignments and f
 Concepts and theoretical explanations in the field of phylogenetic trees.
 
 <h3> 6. Virus Classification (Final Project) <span style="font-size: small; font-weight: normal;">(Programming)</span> </h3>
-Analysis and classification of DNA Sequence Using Neural Networks. This project is the implementation of this [GitHub](https://github.com).
+Analysis and classification of DNA Sequence Using Neural Networks. This project is the implementation of this [research article](https://pubmed.ncbi.nlm.nih.gov/34306171).
 Developed a virus classification model using nucleotide sequences, employing the k-mer algorithm for preprocessing and integrating MLP Neural Networks in the machine learning model.
 
 
