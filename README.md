@@ -4,7 +4,7 @@
   <h1 align="center">Bioinformatics</h3>
   
   <p align="left">
-    Welcome to the Bioinformatics Course repository! This repository contains 6 different projects completed during my undergraduate bioinformatics course. The projects cover a range of topics in bioinformatics, including programming assignments and theoretical concepts(4 programming/theoretical and 2 pure theoretical projects).
+    Welcome to the Bioinformatics Course repository! This repository contains <strong>6 different projects</strong> completed during my undergraduate bioinformatics course. The projects cover a range of topics in bioinformatics, including programming assignments and theoretical concepts(4 programming/theoretical and 2 pure theoretical projects).
     <br/>
   </p>
   
