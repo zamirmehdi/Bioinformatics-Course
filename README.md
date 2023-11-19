@@ -73,7 +73,7 @@ Developed a model that extracts profiles from multiple sequence alignments and f
 
 Concepts and theoretical explanations in the field of phylogenetic trees.
 
-<h3> 6. Virus Classification (Final Project) <span style="font-size: small; font-weight: normal;">(Programming)</span> </h3>
+<h3> 6. Virus Classification - Final Project <span style="font-size: small; font-weight: normal;">(Programming)</span> </h3>
 
 Analysis and classification of DNA Sequence Using Neural Networks. This project is the implementation of this [research article](https://pubmed.ncbi.nlm.nih.gov/34306171).
 Developed a virus classification model using nucleotide sequences, employing the k-mer algorithm for preprocessing and integrating MLP Neural Networks in the machine learning model.
