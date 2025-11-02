@@ -570,7 +570,7 @@ Stem Cells            → Single-cell genomics
 **Assignment:** Basic Biology Fundamentals  
 **Author:** Amirmehdi Zarrinnezhad  
 **Course:** Bioinformatics  
-**University:** Amirkabir University of Technology (Tehran Polytechnic) - Fall 2021-2022  
+**University:** Amirkabir University of Technology (Tehran Polytechnic) - Fall 2022  
 **Language:** Persian (Assignment), English (README)  
 **GitHub Link:** [1- Basic Biology](https://github.com/zamirmehdi/Bioinformatics-Course/tree/main/1-%20Basic%20biology)  
 
@@ -595,7 +595,7 @@ Questions or collaborations? Feel free to reach out!
 
 <div align="center">
 
-[⬆ Back to Main Repository]([#](https://github.com/zamirmehdi/Bioinformatics-Course)
+[⬆ Back to Main Repository](https://github.com/zamirmehdi/Bioinformatics-Course)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
