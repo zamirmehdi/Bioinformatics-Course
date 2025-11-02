@@ -4,7 +4,6 @@ A foundational theoretical assignment covering essential biological concepts inc
 
 [![Course](https://img.shields.io/badge/Course-Bioinformatics-blue.svg)](#)
 [![University](https://img.shields.io/badge/University-AUT-red.svg)](https://aut.ac.ir/en)
-[![Status](https://img.shields.io/badge/Status-Complete-success.svg)](#)
 
 <details> <summary><h2>📚 Table of Contents</h2></summary>
 
@@ -16,8 +15,6 @@ A foundational theoretical assignment covering essential biological concepts inc
   - [Question 4: Vestigial Traits](#question-4-vestigial-traits)
 - [Key Concepts Covered](#-key-concepts-covered)
 - [Learning Outcomes](#-learning-outcomes)
-- [Submission Requirements](#-submission-requirements)
-- [Important Notes](#%EF%B8%8F-important-notes)
 - [Project Structure](#%EF%B8%8F-project-structure)
 - [Answers Summary](#-answers-summary)
 - [Theoretical Background](#-theoretical-background)
@@ -25,6 +22,9 @@ A foundational theoretical assignment covering essential biological concepts inc
 - [Contact](#-contact)
 
 </details>
+
+<!-- - [Submission Requirements](#-submission-requirements)
+- [Important Notes](#%EF%B8%8F-important-notes) -->
 
 ---
 
@@ -366,6 +366,8 @@ After completing this assignment, students will be able to:
 
 ---
 
+<!--
+
 ## 📋 Submission Requirements
 
 ### Platform
@@ -447,6 +449,8 @@ If any copying is detected (theoretical OR programming):
 
 ---
 
+-->
+
 ## 🗂️ Project Structure
 
 ```
@@ -462,7 +466,7 @@ If any copying is detected (theoretical OR programming):
 
 ## 📊 Answers Summary
 
-*(From submitted Report.pdf by Amirmehdi Zarrinnezhad - Student ID: 9731087)*
+*(From submitted Report.pdf by Amirmehdi Zarrinnezhad)*
 
 ### Question 1: Biological Terms
 
@@ -564,11 +568,11 @@ Stem Cells            → Single-cell genomics
 ## ℹ️ Project Information
 
 **Assignment:** Basic Biology Fundamentals  
-**Author:** Amirmehdi Zarrinnezhad (9731087)  
-**Course:** Bioinformatics (بیوانفورماتیک)  
-**University:** Amirkabir University of Technology (Tehran Polytechnic)  
-**Semester:** Fall 1400 (2021-2022)  
-**Language:** Persian (Assignment), English (README)
+**Author:** Amirmehdi Zarrinnezhad  
+**Course:** Bioinformatics  
+**University:** Amirkabir University of Technology (Tehran Polytechnic) - Fall 2021-2022  
+**Language:** Persian (Assignment), English (README)  
+**GitHub Link:** [1- Basic Biology](https://github.com/zamirmehdi/Bioinformatics-Course/tree/main/1-%20Basic%20biology)  
 
 <div align="center">
 
@@ -582,24 +586,23 @@ Stem Cells            → Single-cell genomics
 
 ## 📧 Contact
 
-Questions or clarifications about this project?
-
-📧 **Course Instructor:** mmnafar57@gmail.com  
-🎓 **Student Author:** Amirmehdi Zarrinnezhad  
-🌐 **GitHub:** [Bioinformatics Course Repository](#)
+Questions or collaborations? Feel free to reach out!  
+📧 Email: amzarrinnezhad@gmail.com  
+💬 Open an [Issue](https://github.com/zamirmehdi/Data-Mining-Course/issues)  
+🌐 GitHub: [@zamirmehdi](https://github.com/zamirmehdi) 
 
 ---
 
 <div align="center">
 
-[⬆ Back to Main Repository](#)
-
-</div>
+[⬆ Back to Main Repository]([#](https://github.com/zamirmehdi/Bioinformatics-Course)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <div align="center">
 
-⭐ **If you found this helpful, please consider giving it a star!** ⭐
+⭐ **If you found this project helpful, please consider giving it a star!** ⭐
+
+*Amirmehdi Zarrinnezhad*
 
 </div>
