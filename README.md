@@ -559,7 +559,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 -->
-## ℹ️ Project Information
+## ℹ️ Course Information
 
 **Author:** Amirmehdi Zarrinnezhad  
 **Course:** Bioinformatics  
@@ -585,12 +585,6 @@ Questions or collaborations? Feel free to reach out!
 🌐 GitHub: [@zamirmehdi](https://github.com/zamirmehdi)
 
 ---
-
-<div align="center">
-
-[⬆ Back to Main Repository](https://github.com/zamirmehdi/Bioinformatics-Course)
-
-</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
