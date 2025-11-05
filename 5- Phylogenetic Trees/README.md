@@ -935,3 +935,51 @@ After completing this project, students can:
 **`Instruction.pdf`**:
 - 5 comprehensive theory questions
 - Regular expression exercises
+
+**`Report.pdf`**:
+- Completed solutions with manual calculations
+
+
+## ℹ️ Project Information
+
+**Assignment:** Phylogenetic Trees  
+**Author:** Amirmehdi Zarrinnezhad  
+**Course:** Bioinformatics  
+**University:** Amirkabir University of Technology (Tehran Polytechnic) - Fall 2022  
+**Language:** English (README), Persian (Instruction and Report PDFs)  
+**GitHub Link:** [5- Phylogenetic Trees](https://github.com/zamirmehdi/Bioinformatics-Course/tree/main/5-%20Phylogenetic%20Trees)
+
+<div align="center">
+
+**Part of Bioinformatics Course Projects**
+
+[1: Basic Biology](../1-%20Basic%20biology) | [2: Sequence Alignment](.) | [3: MSA & DB Search](../3-%20Multiple%20Sequence%20Alignment%20-%20DB%20Search) | [4: Profile HMM](../4-%20Profile%20-%20Hidden%20Markov%20model) | [5: Phylogenetic Trees](../5-%20Phylogenetic%20Trees) | [Final: Virus Classification](../Virus%20Classification%20(Final%20Project))
+
+</div>
+
+---
+
+## 📧 Contact
+
+Questions or collaborations? Feel free to reach out!  
+📧 Email: amzarrinnezhad@gmail.com  
+💬 Open an [Issue](https://github.com/zamirmehdi/Bioinformatics-Course/issues)  
+🌐 GitHub: [@zamirmehdi](https://github.com/zamirmehdi)
+
+---
+
+<div align="center">
+
+[⬆ Back to Main Repository](https://github.com/zamirmehdi/Bioinformatics-Course)
+
+</div>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div align="center">
+
+⭐ **If you found this project helpful, please consider giving it a star!** ⭐
+
+*Amirmehdi Zarrinnezhad*
+
+</div>
